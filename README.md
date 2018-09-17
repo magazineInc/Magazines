@@ -1,2 +1,3 @@
-# Magazines
-Hello welcome to MagazineInc a place were you know sell magazines
+# Magazines.Inc
+Hello welcome to Magazine.Inc a place were you know sell magazines
+theres not much about us 
